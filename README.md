@@ -9,6 +9,6 @@ O aplicativo será simples e facil de manusear.
 
 Poder fazer sua marcação na palma da sua mão **:sos:**
 
-Escolher seu Médico preferido**:ambulance:**
+Escolher seu Médico preferido:ambulance:
 
 Fazer seu agendamento com horário e data certa **:date:**.

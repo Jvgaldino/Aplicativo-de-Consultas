@@ -5,7 +5,8 @@ Nesse aplicativo você poderá marcar suas consultas sem sair de casa
 
 O aplicativo será simples e facil de manusear.
 
-FUNCIONALIDADES 📌
+**FUNCIONALIDADES 📌
+
 Poder fazer sua marcação na palma da sua mão
 
 Escolher seu Médico preferido

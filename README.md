@@ -5,10 +5,10 @@ Nesse aplicativo você poderá marcar suas consultas sem sair de casa
 
 O aplicativo será simples e facil de manusear.
 
-**FUNCIONALIDADES 📌
+**FUNCIONALIDADES** 📌
 
-Poder fazer sua marcação na palma da sua mão
+Poder fazer sua marcação na palma da sua mão **:sos:**
 
-Escolher seu Médico preferido
+Escolher seu Médico preferido**:ambulance:**
 
-Fazer seu agendamento com horário e data certa.
+Fazer seu agendamento com horário e data certa **:date:**.
